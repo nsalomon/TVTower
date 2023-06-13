@@ -335,7 +335,7 @@
 		</scripttemplate>
 		<scripttemplate product="2" licence_type="3" guid="script-ariksan-kautz" creator="9621" comment="inspired by die Sendung mit der Maus">
 			<title>
-				<de>Sie Sendung mit ${dativ_${variant}} ${tier_${variant}}</de>
+				<de>Die Sendung mit ${dativ_${variant}} ${tier_${variant}}</de>
 				<en>The Show with the %adjective% %animal%</en>
 			</title>
 			<description>
